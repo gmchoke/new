@@ -237,10 +237,6 @@ transition:0.5s ease;
               <input type="submit" name="Submit3" value="ดาวน์โหลด" ONCLICK="window.location.href='http://<?PHP echo $ip;?>/client.php'"/>
             </div>
         </td>
-        <td width="20%">
-            <div align="right">
-              <input type="submit" name="Submit3" value="เข้าระบบ" ONCLICK="window.location.href='http://<?PHP echo $ip;?>:10000'"/>
-            </div>
         </td>
       </tr>
     </table>
