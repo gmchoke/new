@@ -288,8 +288,9 @@ transition:0.5s ease;
       </center>
     </div>
     <div id="footer">
-	<p>Facebook : <a href="https://www.facebook.com/profile.php?id=100003964048764">Palladium Actinium</a> Email : c3au@admin.in.th</p>
-      <p>&copy;2006-2010 ลิขสิทธิ์ VPN Server โดย <a href="https://www.facebook.com/webcyber">C3TH-Security</a> (ห้ามแก้ไขหน้าระบบโดยไม่ได้รับอนุณาติ!)</p>
+	    <a>
+	<font color="#0000FF">©2017-2022 VPN Accounts Created All Right Reserved. <br> 
+        Facebook : <a href="https://www.facebook.com/nipon kaewtes">Nipon Kaewtes</a> Email : GM-VPN@admin.in.th  VPN Server BY <a href="https://www.facebook.com/Nipon Kaewtes/"><font color="#000000">GM-VPN</font></a>
 
     </div>
   </div>
